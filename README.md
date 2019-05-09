@@ -6,6 +6,7 @@ Chat box with mongodb, socket.io and bootstrap 4
 1. Clone repo and enter MongoChat folder.
 2. Run npm install
 3. Run node server.js
+4. Run index.html file.
 
 # Prerequisites
 1. nodejs: https://nodejs.org and local mongo database.
