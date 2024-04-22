@@ -1,4 +1,4 @@
-# MongoChat
+# Realtime chat
 Chat box with mongodb, socket.io and bootstrap 4
 
 # How to build MongoChat App
